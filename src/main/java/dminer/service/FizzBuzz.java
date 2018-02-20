@@ -1,4 +1,4 @@
-package main.java.dminer.service;
+package dminer.service;
 
 public class FizzBuzz {
 
