@@ -1,6 +1,6 @@
-package dminer.web;
+package main.java.dminer.web;
 
-import dminer.service.FizzBuzz;
+import main.java.dminer.service.FizzBuzz;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
